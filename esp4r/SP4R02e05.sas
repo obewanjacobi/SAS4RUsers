@@ -13,3 +13,5 @@ data sp4r.class;
    ;
 run;
 
+* Skipped because very similar to work I already did in SAS Programming 1
+* course;
