@@ -42,3 +42,8 @@ proc iml;
    coefficientNames = {SAS_Coefficients R_Coefficients Difference};
    print coefficients[colname=coefficientNames];
 quit;
+
+
+*
+
+*;
